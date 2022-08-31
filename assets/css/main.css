@@ -2459,3 +2459,8 @@ input, select, textarea {
 
 	}
 
+a{
+	color: white;
+	text-decoration: none;
+}
+
